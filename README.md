@@ -6,6 +6,8 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=DvFernandess&show_icons=true&theme=radical)
 
+[![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvFernandess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso 
 
 <div style="Display: inline_block"><br/>
