@@ -8,7 +8,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/garotodiversao)
 
 
-[![Garcia GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DvFernandess&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Garcia GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=DvFernandess)](https://github.com/anuraghazra/github-readme-stats)
 
 ##Tecnologias que eu utilizo no meu dia
 
